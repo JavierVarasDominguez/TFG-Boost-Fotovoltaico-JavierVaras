@@ -46,8 +46,7 @@ TFG-Boost-Fotovoltaico-JavierVaras/
 ├── KiCad_Prototipo/
 │
 ├── Documentacion_TFG/
-│
-└── Resultados_Experimentales/
+
 ```
 
 ### Simulink_Matlab
